@@ -1,15 +1,11 @@
-# 📦 The CRATE Language Model
-
 <p align="center">
-    <img src="./assets/digirl-logo-text.png" alt="logo" width="50%">
+    <img src="./assets/digirl-logo-text.png" alt="logo" width="20%">
 </p>
 
 <h3 align="center">
-DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning
+Improving Neuron-level Interpretability with White-box Language Models 
 <br>
-<b>Oral @ <a href="https://icml-fm-wild.github.io/">FM Wild</a>, ICML</b>
-    <br>
-    <b>Neurips 2024</b>
+<b>Preprint</b>
 
 </h3>
 
@@ -20,18 +16,16 @@ DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement
 
 ---
 
-Research Code for preprint "DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning".
+Research Code for preprint "Improving Neuron-level Interpretability with White-box Language Models".
 
-[Hao Bai*](https://jackgethome.com), [Yifei Zhou*](https://<username>02.github.io/), [Mert Cemri](https://scholar.google.com/citations?user=sMEFwf8AAAAJ&hl=en), [Jiayi Pan](https://www.jiayipan.me/), [Alane Suhr](https://www.alanesuhr.com/), [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/), [Aviral Kumar](https://aviralkumar2907.github.io/)<br>
-UC Berkeley, UIUC, Google DeepMind
+[Hao Bai*](https://jackgethome.com), [Yi Ma](https://people.eecs.berkeley.edu/~yima/)<br>
+UC Berkeley, UIUC, HKU
 <br>
-*Equal contribution, alphabetic order; work done at UC Berkeley
+*Work done at UC Berkeley
 
 <p align="center">
     <img src="./assets/digirl-diagram.png" alt="digirl-diagram" width="70%">
 </p>
-
-Official Repository of the Paper "Improving Neuron-level Interpretability with White-box Language Models". 
 
 Content already released:
 - model code
