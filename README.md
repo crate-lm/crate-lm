@@ -1,6 +1,8 @@
-<p align="center">
+<!-- <p align="center">
     <img src="./assets/digirl-logo-text.png" alt="logo" width="20%">
 </p>
+-->
+
 
 <h3 align="center">
 Improving Neuron-level Interpretability with White-box Language Models 
