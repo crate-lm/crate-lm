@@ -1,4 +1,4 @@
-# crate-lm
+# 📦 The CRATE Language Model
 Official Repository of the Paper "Improving Neuron-level Interpretability with White-box Language Models". 
 
 Content already released:
