@@ -7,7 +7,7 @@
 <h3 align="center">
 Improving Neuron-level Interpretability with White-box Language Models 
 <br>
-<b>Preprint</b>
+<b>To Appear at CPAL 2025, Oral</b>
 
 </h3>
 
@@ -28,7 +28,7 @@ UC Berkeley, UIUC, HKU
 Content already released:
 - model code
 
-Content to be released during **December 2024**:
+Content to be released during **March 2025** (sorry for the long delay, but the PhD application really took me a long while):
 
 - Pre-training script
 - Model checkpoints
