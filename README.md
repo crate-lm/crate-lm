@@ -13,7 +13,7 @@ Improving Neuron-level Interpretability with White-box Language Models
 
 
 <p align="center">
-| <a href="https://crate-lm.github.io/"><b>Website</b></a> | <a href="https://arxiv.org/abs/2410.16443"><b>Paper</b></a> | <a href="https://github.com/crate-lm/crate-lm"><b>Checkpoint</b></a> |
+| <a href="https://crate-lm.github.io/"><b>Website</b></a> | <a href="https://arxiv.org/abs/2410.16443"><b>Paper</b></a> | <a href="https://huggingface.co/JackBAI/CRATE-GPT-12L-Pile-600000steps"><b>Checkpoint</b></a> |
 </p>
 
 ---
