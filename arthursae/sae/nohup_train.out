@@ -1,0 +1,21 @@
+/home/simonzhai/miniconda3/envs/crategpt/lib/python3.10/site-packages/transformers/utils/hub.py:124: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+/home/ubuntu/nanogpt4crate/arthursae/sae/./main.py:102: UserWarning: Lol no size checkin
+  warnings.warn("Lol no size checkin")
+wandb: Currently logged in as: jackgethome (hepta-workshop). Use `wandb login --relogin` to force relogin
+wandb: wandb version 0.16.4 is available!  To upgrade, please run:
+wandb:  $ pip install wandb --upgrade
+wandb: Tracking run with wandb version 0.15.12
+wandb: Run data is saved locally in /home/ubuntu/nanogpt4crate/arthursae/sae/wandb/run-20240312_160856-tse0fi03
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run MODEL-gpt-6l-LAYER-0-MULT-16x-LR-0.0004-LAMBDA-8e-05-DSAW-49152Tue_Mar_12_16-08-55_2024_76
+wandb: ⭐️ View project at https://wandb.ai/hepta-workshop/sae
+wandb: 🚀 View run at https://wandb.ai/hepta-workshop/sae/runs/tse0fi03
+<m<multiprocessing.pool.ApplyResult object at 0x7f0c21b78eb0> 
+
+python ./main.py --model_name=gpt-6l --layer=0 --act_name=blocks.0.mlp.hook_post --d_sae=49152 --d_in=3072 --dataset_split=train --delete_cache=True --l1_lambda=1.6e-06 --lr=0.0012
+Exception ignored in: <function Pool.__del__ at 0x7f0c21b512d0>
+Traceback (most recent call last):
+  File "/home/simonzhai/miniconda3/envs/crategpt/lib/python3.10/multiprocessing/pool.py", line 268, in __del__
+  File "/home/simonzhai/miniconda3/envs/crategpt/lib/python3.10/multiprocessing/queues.py", line 372, in put
+AttributeError: 'NoneType' object has no attribute 'dumps'
